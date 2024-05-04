@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "966565696355",
+    "project_id": "hokari-4e29a",
+    "storage_bucket": "hokari-4e29a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966565696355:android:8ab56337d8e09f8c18f956",
+        "android_client_info": {
+          "package_name": "com.hokari"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCb-LYqKUJtKILsaKB7Vgcv3_NAqgmPwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966565696355:android:e7bae69d9dbb496d18f956",
+        "android_client_info": {
+          "package_name": "com.hokari.customer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCb-LYqKUJtKILsaKB7Vgcv3_NAqgmPwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
