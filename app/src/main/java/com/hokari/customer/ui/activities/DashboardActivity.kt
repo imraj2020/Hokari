@@ -25,9 +25,6 @@ class DashboardActivity : AppCompatActivity() {
             ContextCompat.getDrawable(
                 this@DashboardActivity,
                 R.drawable.app_gradient_color_background
-
-
-
             )
         )
         binding.btnAddProduct.setOnClickListener {

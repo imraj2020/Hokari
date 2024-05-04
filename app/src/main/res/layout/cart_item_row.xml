@@ -114,8 +114,8 @@
 
     <ImageButton
         android:id="@+id/ib_delete_cart_item"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="80dp"
+        android:layout_height="70dp"
         android:background="@android:color/transparent"
         android:contentDescription="@string/content_description"
         android:foreground="?attr/selectableItemBackgroundBorderless"
